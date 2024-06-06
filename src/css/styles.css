@@ -1,0 +1,38 @@
+
+/* #map { height: calc(100vh - 56px); } */
+
+.easy-button-button{
+  font-size: 20px;
+}
+
+html, body, #map {
+  height: 100%;
+  width: 100%;
+}
+
+  /* body {
+    padding: 0;
+    margin: 0;
+}
+
+
+nav {
+  height: 7vh;
+}
+
+.tooltip {
+	position: relative;
+	display: inline-block;
+	border-bottom: 1px dotted black;
+  }
+
+  .fa{
+    font-size: initial;
+  }
+
+ 
+
+  .navbar-brand{
+    padding-top: 0cm;
+    padding-bottom: 0cm;
+  } */
